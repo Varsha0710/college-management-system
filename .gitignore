@@ -1,0 +1,5 @@
+api-gateway/node_modules/
+auth-service/node_modules/
+department-service/node_modules/
+staff-service/node_modules/
+student-service/node_modules/
